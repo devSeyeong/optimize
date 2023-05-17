@@ -10,7 +10,9 @@ import ItemsPage from './pages/ItemsPage'
 import PartPage from './pages/PartPage'
 import RidingStylesPage from './pages/RidingStylesPage'
 
+// practice
 function App() {
+	console.log("practice");
 	return (
 		<div className="App">
 			<Header/>
