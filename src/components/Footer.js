@@ -1,5 +1,6 @@
 import React from 'react'
 
+// Add footer
 function Footer(props) {
 	return (
 		<section className={'Footer text-center py-12'}>
